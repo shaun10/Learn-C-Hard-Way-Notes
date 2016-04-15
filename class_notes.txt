@@ -1,0 +1,2 @@
+md5 on osx check sum to verify file
+curl -O to download file O param will provide better output.
