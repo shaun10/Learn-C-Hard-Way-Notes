@@ -1,2 +1,4 @@
-md5 on osx check sum to verify file
+md5 on osx check sum to verify file match
 curl -O to download file O param will provide better output.
+tar -xjvf for extracts
+valgrind use to check for memory errors and follow execution of the program
